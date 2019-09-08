@@ -27,4 +27,4 @@
 
 ----
 
-"kodluyoruz veribilimi bootcamp Faruk"
+"kodluyoruz veribilimi bootcamp Faruk 12"
